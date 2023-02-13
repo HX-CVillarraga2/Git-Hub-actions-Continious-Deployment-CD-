@@ -5,5 +5,5 @@ To know more about them or the scope of the project, please go to [DataTalks Rep
 
 
 Material:
-+ Documentation [Continious Deployment](https://docs.github.com/en/actions/deployment/about-deployments/about-continuous-deployment)
++ Documentation [Continuous Deployment](https://docs.github.com/en/actions/deployment/about-deployments/about-continuous-deployment)
 + Tutorial [GitHub Actions](https://www.youtube.com/watch?v=R8_veQiYBjI&ab_channel=TechWorldwithNana)
